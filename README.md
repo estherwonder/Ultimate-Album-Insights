@@ -20,4 +20,4 @@ An interactive Power BI dashboard has been created to facilitate a deeper explor
 
 Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiZjM2NjI0M2ItMDIxZC00OTlkLWE5YjItNzYwMmU0MTYyNjhhIiwidCI6IjZhZWZhZTNjLTE4ODYtNGNhMi1iZDhhLTNiODc2MDc2MjQwYSJ9
 
-Full report:
+Full report: https://medium.com/@estherajayi98/ultimate-album-insights-analyzing-the-greatest-of-all-time-7e0b6aaba817
