@@ -1,6 +1,5 @@
-# Ultimate Album
+# Ultimate Album Insights
 
-### Overview
 This project investigates the greatest albums of all time, inspired by Apple Music's "100 Greatest Albums of All Time" and includes data from Rolling Stone's 2023 Top 500 Albums, Billboard's 2015 Top 200 Albums, Grammy Awards, and Spotify streams. It aims to uncover key insights such as:
 
 •	Greatest albums featured across the three lists (Billboard, Rolling Stone, and Apple)
